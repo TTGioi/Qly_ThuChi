@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="7"
+        android:orientation="vertical"
+        android:layout_marginTop="15dp"
+        >
+        <TextView
+            android:id="@+id/tv_tenKC"
+            android:layout_width="match_parent"
+            android:layout_height="27dp"
+            android:text="abc"
+            android:textSize="24dp"
+            />
+        <TextView
+            android:id="@+id/tv_tienKC"
+            android:layout_width="match_parent"
+            android:layout_height="27dp"
+            android:textSize="24dp"
+            />
+    </LinearLayout>
+
+    <ImageView
+        android:layout_marginTop="15dp"
+        android:id="@+id/iv_editKC"
+        android:layout_width="0dp"
+        android:layout_height="54dp"
+        android:layout_weight="1.4"
+        android:src="@drawable/ic_edit"
+        />
+    <ImageView
+        android:layout_marginTop="15dp"
+        android:id="@+id/iv_deleteKC"
+        android:layout_width="0dp"
+        android:layout_height="54dp"
+        android:layout_weight="1.4"
+        android:src="@drawable/ic_baseline_delete_24"
+        />
+</LinearLayout>

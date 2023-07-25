@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Mob202_TKGD/asmHT/app/src/main/res/drawable/ic_menu.xml" value="0.13" />
+        <entry key="..\:/Mob202_TKGD/asmHT/app/src/main/res/layout/activity_main.xml" value="0.176" />
+        <entry key="..\:/Mob202_TKGD/asmHT/app/src/main/res/layout/chi_fragment.xml" value="0.21784420289855072" />
+        <entry key="..\:/Mob202_TKGD/asmHT/app/src/main/res/layout/dialod_suakhoanchi.xml" value="0.21784420289855072" />
+        <entry key="..\:/Mob202_TKGD/asmHT/app/src/main/res/layout/dialog_suakhoanthu.xml" value="0.21784420289855072" />
+        <entry key="..\:/Mob202_TKGD/asmHT/app/src/main/res/layout/dialog_sualoaithu.xml" value="0.245018115942029" />
+        <entry key="..\:/Mob202_TKGD/asmHT/app/src/main/res/layout/dialog_themkhoanchi.xml" value="0.21784420289855072" />
+        <entry key="..\:/Mob202_TKGD/asmHT/app/src/main/res/layout/dialog_themkhoanthu.xml" value="0.21784420289855072" />
+        <entry key="..\:/Mob202_TKGD/asmHT/app/src/main/res/layout/dialog_themloaichi.xml" value="0.21784420289855072" />
+        <entry key="..\:/Mob202_TKGD/asmHT/app/src/main/res/layout/gioithieu_fragment.xml" value="0.21784420289855072" />
+        <entry key="..\:/Mob202_TKGD/asmHT/app/src/main/res/layout/header_layout.xml" value="0.1" />
+        <entry key="..\:/Mob202_TKGD/asmHT/app/src/main/res/layout/item_khoanchi.xml" value="0.12158054711246201" />
+        <entry key="..\:/Mob202_TKGD/asmHT/app/src/main/res/layout/item_khoanthu.xml" value="0.19047619047619047" />
+        <entry key="..\:/Mob202_TKGD/asmHT/app/src/main/res/layout/khoanchi_fragment.xml" value="0.21784420289855072" />
+        <entry key="..\:/Mob202_TKGD/asmHT/app/src/main/res/layout/khoanthu_fragment.xml" value="0.21784420289855072" />
+        <entry key="..\:/Mob202_TKGD/asmHT/app/src/main/res/layout/loaithu_fragment.xml" value="0.1" />
+        <entry key="..\:/Mob202_TKGD/asmHT/app/src/main/res/layout/thu_fragment.xml" value="0.245018115942029" />
+        <entry key="..\:/Mob202_TKGD/asmHT/app/src/main/res/layout/toolbar.xml" value="0.1" />
+        <entry key="..\:/Mob202_TKGD/asmHT/app/src/main/res/menu/menu_drawer.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

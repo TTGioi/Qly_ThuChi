@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Thêm Khoản Chi"
+        android:textSize="30sp"
+        android:textColor="#536dfe"/>
+
+    <Spinner
+        android:id="@+id/spnLoaiChi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+    <EditText
+        android:id="@+id/edTenKhoanChiT"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Tên khoản chi"
+        android:textSize="19sp"
+        />
+    <EditText
+        android:id="@+id/edTienKC"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Nhập tiền"
+        android:textSize="19sp"
+        />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        >
+        <EditText
+            android:id="@+id/edNgayChiT"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:hint="Chọn ngày"
+            android:textSize="19sp"
+            />
+        <ImageView
+            android:id="@+id/ivChiT"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:src="@drawable/ic_date"
+            />
+    </LinearLayout>
+
+
+
+</LinearLayout>
